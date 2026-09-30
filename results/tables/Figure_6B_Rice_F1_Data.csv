@@ -1,0 +1,11 @@
+Class,EfficientNet-B0 Baseline,MobileNetV2 Baseline,EfficientNet-B0 Degradation-Aware
+bacterial_leaf_blight,90.91,93.65,97.74
+bacterial_leaf_streak,94.74,94.92,95.58
+bacterial_panicle_blight,95.83,96.91,96.84
+blast,95.58,93.5,94.16
+brown_spot,95.68,94.77,94.96
+dead_heart,99.76,99.28,99.52
+downy_mildew,89.62,91.53,90.5
+hispa,96.91,96.55,96.34
+normal,95.59,96.3,95.78
+tungro,93.79,92.07,93.58

@@ -1,0 +1,16 @@
+Class,EfficientNet-B0 Baseline,MobileNetV2 Baseline,EfficientNet-B0 Degradation-Aware
+aphid,83.72,78.54,83.59
+black_rust,70.83,66.67,72.73
+blast,83.23,83.33,81.21
+brown_rust,91.55,93.37,92.82
+common_root_rot,77.42,70.3,78.43
+fusarium_head_blight,89.32,91.79,91.71
+healthy,94.38,93.79,94.38
+leaf_blight,61.05,67.33,65.22
+mildew,90.61,88.57,91.55
+mite,81.82,78.33,82.64
+septoria,98.08,96.08,94.12
+smut,73.02,80.67,79.31
+stem_fly,93.62,84.0,88.0
+tan_spot,56.22,60.36,64.32
+yellow_rust,98.32,98.1,97.62

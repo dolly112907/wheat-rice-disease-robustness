@@ -1,0 +1,7 @@
+Crop,Model,Parameters (M),Trainable Parameters (M),Model Size FP32 (MB),Inference Time (ms/image),Throughput (images/s),Peak GPU Memory (MB)
+Wheat,EfficientNet-B0 Baseline,4.027,4.027,15.36,1.1253,888.65,373.04
+Wheat,MobileNetV2 Baseline,2.243,2.243,8.56,0.8908,1122.61,366.44
+Wheat,EfficientNet-B0 Degradation-Aware,4.027,4.027,15.36,1.1364,879.96,373.04
+Rice,EfficientNet-B0 Baseline,4.02,4.02,15.34,1.1419,875.74,373.02
+Rice,MobileNetV2 Baseline,2.237,2.237,8.53,0.9024,1108.22,366.42
+Rice,EfficientNet-B0 Degradation-Aware,4.02,4.02,15.34,1.1546,866.11,373.02
