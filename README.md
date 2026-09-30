@@ -34,11 +34,15 @@ The main experimental notebook is provided in:
 
 `notebooks/wheat-rice-degradation.ipynb`
 
-## Dataset
+## Datasets
 
-The datasets used in this study are not redistributed in this repository.
+### Wheat
+Wheat Plant Diseases Dataset
+https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases
 
-Please obtain the original datasets from their respective authorized sources and follow the dataset preparation and splitting procedure described in the associated paper.
+### Rice
+Paddy Doctor: Paddy Disease Classification
+https://www.kaggle.com/competitions/paddy-disease-classification
 
 ## Results
 
